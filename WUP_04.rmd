@@ -26,8 +26,7 @@ $H_a$ There is a significant difference in average score on the WORDSUM test bet
 
 <!--Decide on your methods:  use "variable analysis" or other appropriate descriptors.  Make sure to choose at least one graphical method and at least one numerical method.!-->
  
- We tried to predict WORDSUM based on DEGREE. WORDSUM is a numerical while DEGREE is a Categorical Therefore I've used the helper file.
- 
+ We tried to predict WORDSUM based on DEGREE. WORDSUM is a numerical while DEGREE is a Categorical Therefore we'll be using One way Anova due to DEGREES having more than 2 levels.
 # Results
 
 <!--Divide this section into two sub-sections:  One for your descriptive  results and one for your inferential results.!-->
